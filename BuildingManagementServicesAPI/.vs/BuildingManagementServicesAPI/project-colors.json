@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da5e802f-bad0-462f-9bc6-915845a65365": {
+      "ProjectGuid": "da5e802f-bad0-462f-9bc6-915845a65365",
+      "DisplayName": "ServicesLayer",
+      "ColorIndex": 0
+    },
+    "16b485f4-d4a9-4b80-8829-1fe72a3cc890": {
+      "ProjectGuid": "16b485f4-d4a9-4b80-8829-1fe72a3cc890",
+      "DisplayName": "BuildingManagementServicesAPI",
+      "ColorIndex": 1
+    },
+    "4979a736-d50b-4646-80f3-e517459d574c": {
+      "ProjectGuid": "4979a736-d50b-4646-80f3-e517459d574c",
+      "DisplayName": "DomainLayer",
+      "ColorIndex": 2
+    },
+    "7f670459-4cdc-4e73-9c12-c75612212977": {
+      "ProjectGuid": "7f670459-4cdc-4e73-9c12-c75612212977",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

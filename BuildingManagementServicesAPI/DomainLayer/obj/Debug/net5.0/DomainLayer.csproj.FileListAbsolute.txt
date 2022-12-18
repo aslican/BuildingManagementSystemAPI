@@ -1,0 +1,15 @@
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\bin\Debug\net5.0\DomainLayer.runtimeconfig.json
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\bin\Debug\net5.0\DomainLayer.runtimeconfig.dev.json
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
+C:\Users\aslic\Desktop\BuildingManagementServicesAPI_NET5\BuildingManagementServicesAPI\DomainLayer\obj\Debug\net5.0\DomainLayer.genruntimeconfig.cache
