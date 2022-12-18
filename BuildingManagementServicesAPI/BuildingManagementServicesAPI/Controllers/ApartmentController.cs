@@ -9,7 +9,7 @@ namespace BuildingManagementServicesAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Admin")]
+    
     public class ApartmentController : ControllerBase
     {
         private readonly IApartmentService _apartmentService;
@@ -17,6 +17,7 @@ namespace BuildingManagementServicesAPI.Controllers
         {
             _apartmentService = apartmentService;
         }
+        [Authorize(Roles = "Admin")]
         [HttpGet("GetAll")]
         public IActionResult GetAll()
         {
@@ -24,6 +25,7 @@ namespace BuildingManagementServicesAPI.Controllers
             return Ok(apartments);
 
         }
+        [Authorize(Roles = "Admin,User")]
         [HttpGet]
         [Route("getapartmentwithbill/{id}")]
         
@@ -32,25 +34,28 @@ namespace BuildingManagementServicesAPI.Controllers
             var apartment=_apartmentService.GetByIdWithBills(id);
             return Ok(apartment);
         }
-
+        [Authorize(Roles = "Admin")]
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var apartment = _apartmentService.GetByIdWithUser(id);
             return Ok(apartment);
         }
+        [Authorize(Roles = "Admin")]
         [HttpDelete]
         public IActionResult Delete(Apartment apartment)
         {
             _apartmentService.Delete(apartment);
             return Ok("Success");
         }
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public IActionResult Add(AddApartmentDto addDto)
         {
             _apartmentService.Add(addDto);
             return Ok();
         }
+        [Authorize(Roles = "Admin")]
         [HttpPut]
         public IActionResult Update(ApartmentUpdateDto updateDto)
         {
